@@ -1,4 +1,4 @@
-# practica-vue
+# Simple App Tareas Vue3
 
 ## Project setup
 ```
